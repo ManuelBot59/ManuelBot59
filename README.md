@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://pbs.twimg.com/profile_banners/1431621669207031810/1665969076/1080x360"/>
+  <img src="https://pbs.twimg.com/profile_banners/1431621669207031810/1667772880/1500x500"/>
 </div>
 
 <div id="badges"align="center">
