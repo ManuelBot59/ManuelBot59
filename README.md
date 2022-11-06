@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media-exp1.licdn.com/dms/image/D4E16AQHygfXmMbP8lA/profile-displaybackgroundimage-shrink_350_1400/0/1665969218713?e=1672876800&v=beta&t=IMTpqCGOBDSTDNh5pbQJDYBSkMKqJ-u_XlWgvJ_T7Ls"/>
+  <img src="https://pbs.twimg.com/profile_banners/1431621669207031810/1665969076/1080x360"/>
 </div>
 
 <div id="badges"align="center">
@@ -17,7 +17,18 @@
   <img src="https://komarev.com/ghpvc/?username=ManuelBot59&label=PROFILE+VIEWS" width="100px"/>
 </div>
 
-
 <h1>
   Hola! Mucho gusto, Soy Manuel Bot 👋
-</h1>
+ </h1>
+ 
+<div align="center">
+  <img src="https://i.ibb.co/S60dsBD/IMG-20190605-075443.png" width="600" height="300"/>
+</div>
+
+### :woman_technologist: Acerca de mi:
+<div id="badges"align="center">
+ <h3>
+  Profesional Técnico en Computación e Informática | Cumpliendo labores en el Departamento de Ciberinteligencia - Perú  | Especialista en Hacking Ético | Hacker Peruano (Sombrero Blanco) | Analista e investigador en #OSINT y #SOCMINT | Desarrollador de herramientas #OSINT #SOCMINT
+</h3>
+</div>
+  
