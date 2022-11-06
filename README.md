@@ -77,6 +77,11 @@ Soy Profesional Técnico en Computación e Informática y PNP en Perú.
 - :star: Sistema de Gestión y Análisis en hechos delictivos en Delitos Informáticos - GAHEDI (v3.1.279)
 - :star: Sistema de Gestión y Análisis del Delito de Estafa en entornos digitales - SISGADE (v0.1.059)
 
+
+  <a href="https://github.com/sundowndev/phoneinfoga/releases">
+    <img src="https://img.shields.io/github/release/SundownDEV/phoneinfoga.svg" alt="Latest version" />
+  </a>
+
 ### :notebook_with_decorative_cover: Objetivo principal:
 
 - Como Analista, investigador y desarrollador de Herramientas #OSINT y #SOCMINT, quiero llegar a más analistas, colegas e investigadores en general, para que puedan conocer y usar técnicas y herramientas que como #AnalistaOsint vengo utilizando. 
