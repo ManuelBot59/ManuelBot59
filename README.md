@@ -88,6 +88,7 @@ Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitt
 ### 📝 Últimos hilos realizados sobre #VideosOsint en mi cuenta de twitter:
 
 - ✅ [Obtención detallada de información de Números Telefónicos (internacional) con Herramienta #PhoneInfoga (actualizada 06NOV2022)](https://twitter.com/ManuelBot59/status/1589271337054314496)
+- ✅ [Obtener API KEY de #Numverify y #GoogleCSE para ser usadas en Herramienta #PhoneInfoga v2.10.0](https://twitter.com/ManuelBot59/status/1589957467014057988)
 - ✅ [Extraer metadatos con Herramienta #ExifTool](https://twitter.com/ManuelBot59/status/1587837761071251457)
 - ✅ [Conocer el perfil comercial (Marketplace) de usuario y obtener todas sus publicaciones con Herramienta #SellerFB](https://twitter.com/ManuelBot59/status/1585984487111856128)
 
