@@ -74,8 +74,11 @@ Soy Profesional Técnico en Computación e Informática y PNP en Perú.
 
 ### :hammer_and_wrench: Proyectos elaborados para el Departamento de Ciberinteligencia PNP:
 
-- :star: Sistema de Gestión y Análisis en hechos delictivos en Delitos Informáticos - GAHEDI (v3.1.279)
-- :star: Sistema de Gestión y Análisis del Delito de Estafa en entornos digitales - SISGADE (v0.1.059)
+- :star: Sistema de Gestión y Análisis en hechos delictivos en Delitos Informáticos - GAHEDI
+<br>![Versión v3.1.279](https://img.shields.io/badge/Versión-v3.1.279-red.svg)
+
+- :star: Sistema de Gestión y Análisis del Delito de Estafa en entornos digitales - SISGADE
+<br>![Versión v0.1.059](https://img.shields.io/badge/Versión-v0.1.059-blue.svg)
 
 ### :notebook_with_decorative_cover: Objetivo principal:
 
