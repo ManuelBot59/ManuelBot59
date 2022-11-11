@@ -41,6 +41,7 @@ Soy Profesional Técnico en Computación e Informática y PNP en Perú.
 
 - :man_technologist: Trabajo en el Departamento de Ciberinteligencia PNP.
 - :detective: Analista e investigador #OSINT y #SOCMINT
+- :blue_book: Brindo Talleres y capacitaciones en #OSINT #SOCMINT a analistas y diversas Empresas de Perú.   
 - :computer: Hacker Peruano - Sombrero Blanco
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" width="24"> Desarrollador de herramientas #OSINT #SOCMINT
 
