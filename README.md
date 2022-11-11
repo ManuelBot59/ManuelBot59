@@ -89,7 +89,7 @@ Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitt
 
 
 ### 📝 Últimos hilos realizados sobre #VideosOsint en mi cuenta de twitter:
-
+- ✅ [¿Herramienta #OSINT #BlackBird para buscar cuentas por nombre en 574 websites en #GoogleCloudShell?](https://twitter.com/ManuelBot59/status/1591066252113764352)
 - ✅ [Uso y ejecución de #GoogleCloudShell para el uso de #HerramientasOsint](https://twitter.com/ManuelBot59/status/1590030615826821122)
 - ✅ [Obtención de información detallada de Números Telefónicos (Internacional) con Herramienta #PhoneInfoga](https://twitter.com/ManuelBot59/status/1589271337054314496)
 - ✅ [Obtener API KEY de #Numverify y #GoogleCSE para ser usadas en Herramienta #PhoneInfoga](https://twitter.com/ManuelBot59/status/1589957467014057988)
