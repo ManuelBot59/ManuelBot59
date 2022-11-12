@@ -96,6 +96,8 @@ Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitt
 - ✅ [Obtener API KEY de #Numverify y #GoogleCSE para ser usadas en Herramienta #PhoneInfoga](https://twitter.com/ManuelBot59/status/1589957467014057988)
 - ✅ [Extraer metadatos con Herramienta #ExifTool en su versión #GUI #Gráfica](https://twitter.com/ManuelBot59/status/1587837761071251457)
 - ✅ [Conocer el perfil comercial (Marketplace de Facebook) de usuario y obtener todas sus publicaciones con Herramienta #SellerFB](https://twitter.com/ManuelBot59/status/1585984487111856128)
+- ✅ [Técnicas de verificación y análisis de enlaces cortos #ShortLinks](https://twitter.com/ManuelBot59/status/1579628732469628929)
+
 
 ### :fire: Mis estadísticas :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuelBot59&theme=dark&background=000000)
