@@ -35,16 +35,15 @@
   <img src="https://i.ibb.co/S60dsBD/IMG-20190605-075443.png" width="600" height="300"/>
 </div>
 
-### :policeman: Acerca de mi:
+### :star: Acerca de mi:
 
-Soy Profesional Técnico en Computación e Informática y PNP en Perú.
+Soy Profesional Técnico en Computación e Informática de Perú.
 
-- :man_technologist: Trabajo en el Departamento de Ciberinteligencia PNP.
+- :man_technologist: Trabajo en el Departamento de Ciberinteligencia.
 - :detective: Analista e investigador #OSINT y #SOCMINT
 - :blue_book: Brindo Talleres y capacitaciones en #OSINT #SOCMINT a analistas y diversas Empresas de Perú.   
 - :computer: Hacker Peruano - Sombrero Blanco
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" width="24"> Desarrollador de herramientas #OSINT #SOCMINT
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" width="24"> Desarrollador de herramientas #OSINT #SOCMINT.
 
 ### :hammer_and_wrench: Proyectos elaborados en estos lenguajes de programación:
 
@@ -72,18 +71,9 @@ Soy Profesional Técnico en Computación e Informática y PNP en Perú.
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
 
-
-### :hammer_and_wrench: Proyectos elaborados para el Departamento de Ciberinteligencia PNP:
-
-- :star: Sistema de Gestión y Análisis en hechos delictivos en Delitos Informáticos - GAHEDI
-<br>![Versión v3.1.279](https://img.shields.io/badge/Versión-v3.1.279-red.svg)
-
-- :star: Sistema de Gestión y Análisis del Delito de Estafa en entornos digitales - SISGADE
-<br>![Versión v0.1.059](https://img.shields.io/badge/Versión-v0.1.059-blue.svg)
-
 ### :notebook_with_decorative_cover: Objetivo principal:
 
-- Como Analista, investigador y desarrollador de Herramientas #OSINT y #SOCMINT, quiero llegar a más analistas, colegas e investigadores en general, para que puedan conocer y usar técnicas y herramientas que como #AnalistaOsint vengo utilizando. 
+- Como Analista, investigador y desarrollador de Herramientas #OSINT y #SOCMINT, quiero llegar a más profesionales, analistas, colegas e investigadores, a través de los diversos métodos y herramientas que periodicamente vengo difundiendo en mi cuenta de Twitter, para que puedan facilitar en sus diversas labores de investigación e inteligencia OSINT. 
 
 Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitter.com/ManuelBot59) voy publicando de forma periódica, diversos videos tutoriales (#VideosOsint) en la cual la instalación y uso de herramientas y técnicas para la obtención de información de: #Usernames #NúmerosTelefónicos #Scrapping #Metadatos, otros. Todos ejecutados en Google Cloud Shell (una interfaz gratuita, sencilla y amigable), sin la necesidad de tener instalado el S.O Linux, debian, otros.
 <br><br>
