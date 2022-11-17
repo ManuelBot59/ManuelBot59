@@ -40,8 +40,8 @@
 - :computer: Profesional Técnico en Computación e Informática de Perú.
 - :man_technologist: Trabajo en el Departamento de Ciberinteligencia.
 - :computer: Especialista en Ethical Hacking (Sombrero Blanco).
+- :computer: Curso de especialización en Cibercrimen y prueba digital.
 - :computer: Certificado en Fundamento de la Ciberinteligencia.
-- :computer: Curso de especialización en Cibercrimen y prueba digital – Observatorio Peruano de Cibercriminalidad.
 - :detective: Analista e investigador #OSINT y #SOCMINT
 - :blue_book: Docente en Inteligencia en Fuentes Abiertas (OSINT) con especialidad en SOCMINT.   
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" width="24"> Desarrollador de herramientas #OSINT #SOCMINT.
