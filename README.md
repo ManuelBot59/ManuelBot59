@@ -87,4 +87,4 @@ Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitt
 
 ### :fire: Mis estadísticas :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuelBot59&theme=dark&background=000000)
-![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59&count_private=true&show_icons=true&theme=algolia)
+![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59)
