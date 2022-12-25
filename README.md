@@ -74,9 +74,9 @@
 
 ### :notebook_with_decorative_cover: Objetivo principal:
 
-- Como Analista, investigador y desarrollador de Herramientas #OSINT y #SOCMINT, quiero llegar a más profesionales, analistas, colegas e investigadores, a través de los diversos métodos y herramientas que periodicamente vengo difundiendo en mi cuenta de Twitter, para que puedan facilitar en sus diversas labores de investigación e inteligencia OSINT. 
+- Como Analista e investigador de Ciberinteligencia y desarrollador de Herramientas #OSINT y #SOCMINT, quiero difundir mucho conocimiento en el mundo del OSINT, para que a través de técnicas, métodos y herramientas puedan facilitar en sus diversas labores de investigación e inteligencia OSINT. 
 
-Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitter.com/ManuelBot59) voy publicando de forma periódica, diversos videos tutoriales (#VideosOsint) en la cual la instalación y uso de herramientas y técnicas para la obtención de información de: #Usernames #NúmerosTelefónicos #Scrapping #Metadatos, otros. Todos ejecutados en Google Cloud Shell (una interfaz gratuita, sencilla y amigable), sin la necesidad de tener instalado el S.O Linux, debian, otros.
+Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitter.com/ManuelBot59) publico de forma periódica, videos tutoriales (#VideosOsint) en la cual enseño la instalación y uso de herramientas para la obtención de información de: #Usernames #NúmerosTelefónicos #Scrapping #Metadatos, otros. Todos ejecutados en Google Cloud Shell (una interfaz gratuita, sencilla y amigable), sin la necesidad de tener instalado el S.O Linux, debian, otros.
 <br><br>
 
 
