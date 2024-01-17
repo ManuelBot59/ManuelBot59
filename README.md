@@ -27,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=ManuelBot59&label=PROFILE+VIEWS" width="150px"/>
   
 <h1>
-  Hola! Mucho gusto, Soy Manuel Bot 👋
+  Hola! Mucho gusto, Soy Manuel Travezaño 👋
  </h1>
 </div>
 
@@ -38,12 +38,12 @@
 ### :star: Acerca de mi:
 
 - :computer: Profesional Técnico en Computación e Informática de Perú.
-- :man_technologist: Trabajo en el Departamento de Ciberinteligencia.
-- :computer: Especialista en Ethical Hacking (Sombrero Blanco).
-- :man_technologist: Curso de especialización en Cibercrimen y prueba digital.
-- :computer: Certificado en Fundamento de la Ciberinteligencia.
-- :detective: Analista e investigador #OSINT y #SOCMINT
-- :blue_book: Docente en Inteligencia en Fuentes Abiertas (OSINT) con especialidad en SOCMINT.   
+- :man_technologist: Trabajo en el Departamento de Ciberinteligencia de Perú.
+- :computer: Analista e Investigador en Redes Sociales (OSINT/SOCMINT).
+- :man_technologist: Diplomado en Métodos Estadísticos en Análisis de Inteligencia - LISA INSTITUTE.
+- :computer: Docente e Instructor en cursos avanzados de OSINT y SOCMINT - LISA INSTITUTE.
+- :detective: Analista e investigador #OSINT
+- :blue_book: Docente en Inteligencia en Fuentes Abiertas (OSINT) con experiencia en SOCMINT.   
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" width="24"> Desarrollador de herramientas #OSINT #SOCMINT.
 
 ### :hammer_and_wrench: Proyectos elaborados en estos lenguajes de programación:
@@ -74,11 +74,12 @@
 
 ### :notebook_with_decorative_cover: Objetivo principal:
 
-- Como Analista e investigador de Ciberinteligencia y desarrollador de Herramientas #OSINT y #SOCMINT, quiero difundir mucho conocimiento en el mundo del OSINT, para que a través de técnicas, métodos y herramientas puedan facilitar en sus diversas labores de investigación e inteligencia OSINT. 
+- Como analista e investigador en redes sociales mediante OSINT y SOCMINT, mi objetivo es difundir y compartir conocimiento útil para que, con técnicas, métodos y herramientas, se pueda recopilar, procesar, analizar e interpretar información de forma profesional usando el SOCMINT. De esta manera, se puede aprender a mejorar las investigaciones en este ámbito digital.
 
-Motivo por lo cual, a través de mi cuenta de Twitter [Manuel Bot](https://twitter.com/ManuelBot59) publico de forma periódica, videos tutoriales (#VideosOsint) en la cual enseño la instalación y uso de herramientas para la obtención de información de: #Usernames #NúmerosTelefónicos #Scrapping #Metadatos, otros. Todos ejecutados en Google Cloud Shell (una interfaz gratuita, sencilla y amigable), sin la necesidad de tener instalado el S.O Linux, debian, otros.
+- Por eso, a través de mi cuenta de Twitter [Manuel Bot](https://twitter.com/ManuelBot59) y mi canal de Telegram [Manuel Bot OSINT](https://t.me/OsintManuelBot59), realizo diversas publicaciones, vídeos tutoriales, técnicas y métodos basados en OSINT y SOCMINT.
+- Además, enseño la instalación y el uso de herramientas para obtener información de: #Usernames #NúmerosTelefónicos #Scrapping #Metadatos, entre otros. Todo ello ejecutado en Google Cloud Shell (una interfaz gratuita, sencilla y amigable), sin la necesidad de tener instalado el sistema operativo Linux, debian, u otros.
 <br><br>
-
+NOTA: Entendemos que recopilar información no es ilegal, pero difundirla sin el consentimiento del titular lo es. Por lo tanto, bajo esa premisa, no me responsabilizo del mal uso de las herramientas OSINT y SOCMINT proporcionadas para obtener información de una persona.
 
 ### 📝 Enlaces de Interés:
 - ✅ [Colección de Hilos en Twitter que eh realizado a la Fecha](https://linktr.ee/proyectosmanuelbot)
