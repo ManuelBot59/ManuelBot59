@@ -5,13 +5,13 @@
   <a href="https://www.youtube.com/channel/UCTAp48-EdoXnnubGHcXTN9A" target="_blank"rel=" noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/ManuelBot59" target="_blank"rel=" noopener noreferrer">
+  <a href="https://x.com/ManuelBot59" target="_blank"rel=" noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://www.tiktok.com/@manuelbot59" target="_blank"rel=" noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok Badge"/>
   </a>
-  <a href="https://www.facebook.com/ManuelBot59" target="_blank"rel=" noopener noreferrer">
+  <a href="https://www.facebook.com/ManuelBot590" target="_blank"rel=" noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/manuelbot59_" target="_blank"rel=" noopener noreferrer">
