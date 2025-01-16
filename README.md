@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=ManuelBot59&label=PROFILE+VIEWS" width="150px"/>
   
 <h1>
-  Hola! Mucho gusto, Soy Manuel Travezaño 👋
+  Hello, my name is Manuel Travezaño 👋
  </h1>
 </div>
 
@@ -30,18 +30,18 @@
   <img src="https://i.ibb.co/S60dsBD/IMG-20190605-075443.png" width="600" height="300"/>
 </div>
 
-### :star: Acerca de mi:
+### :star: About me:
 
-- :computer: Profesional Técnico en Computación e Informática de Perú.
-- :man_technologist: Trabajo en el Departamento de Ciberinteligencia de Perú.
-- :computer: Analista e Investigador en Redes Sociales (OSINT/SOCMINT).
-- :man_technologist: Diplomado en Métodos Estadísticos en Análisis de Inteligencia - LISA INSTITUTE.
-- :computer: Docente e Instructor en cursos avanzados de OSINT y SOCMINT - LISA INSTITUTE.
-- :detective: Analista e investigador #OSINT
-- :blue_book: Docente en Inteligencia en Fuentes Abiertas (OSINT) con experiencia en SOCMINT.   
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" width="24"> Desarrollador de herramientas #OSINT #SOCMINT.
+- 💻 Professional Computer Technician from Peru.
+- 👨‍💻 Cyber Intelligence Analyst in the Peruvian Police.
+- 🔍 Expert in Social Network Analysis (OSINT/SOCMINT).
+- 🎓 Diploma in Statistical Methods in Intelligence Analysis - LISA Institute.
+- 📘 Teacher and Instructor in advanced and expert-level OSINT/SOCMINT courses - LISA Institute.
+- 🕵️ Dedicated OSINT Researcher with practical experience in real investigations.
+- 💡 Developer of #OSINT and #SOCMINT tools to enhance digital investigations.
+- 🚀 Passionate about sharing knowledge and empowering professionals in cyber intelligence through innovative methodologies and hands-on training.
 
-### :hammer_and_wrench: Proyectos elaborados en estos lenguajes de programación:
+### :hammer_and_wrench: Projects developed in these programming languages:
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -49,7 +49,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### :computer: Sistemas Operativos:
+### :computer: Operating Systems:
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
@@ -59,7 +59,7 @@
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
-### :computer: Buscadores usado como #AnalistaOsint:
+### :computer: Search engines used as Analyst Osint:
 
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
@@ -67,20 +67,28 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
 
-### :notebook_with_decorative_cover: Objetivo principal:
+### 🎯 Main objective:
 
-- Como analista e investigador en redes sociales mediante OSINT y SOCMINT, mi objetivo es difundir y compartir conocimiento útil para que, con técnicas, métodos y herramientas, se pueda recopilar, procesar, analizar e interpretar información de forma profesional usando el SOCMINT. De esta manera, se puede aprender a mejorar las investigaciones en este ámbito digital.
+As a Social Media Analyst and Researcher specialized in OSINT and SOCMINT, my mission is to share useful and practical knowledge so that anyone interested can:
 
-- Por eso, a través de mi cuenta de Twitter [Manuel Bot](https://twitter.com/ManuelBot59) y mi canal de Telegram [Manuel Bot OSINT](https://t.me/OsintManuelBot59), realizo diversas publicaciones, vídeos tutoriales, técnicas y métodos basados en OSINT y SOCMINT.
-- Además, enseño la instalación y el uso de herramientas para obtener información de: #Usernames #NúmerosTelefónicos #Scrapping #Metadatos, entre otros. Todo ello ejecutado en Google Cloud Shell (una interfaz gratuita, sencilla y amigable), sin la necesidad de tener instalado el sistema operativo Linux, debian, u otros.
-<br><br>
-NOTA: Entendemos que recopilar información no es ilegal, pero difundirla sin el consentimiento del titular lo es. Por lo tanto, bajo esa premisa, no me responsabilizo del mal uso de las herramientas OSINT y SOCMINT proporcionadas para obtener información de una persona.
+- Collect, process, analyze and interpret digital information in a professional manner.
+- Apply advanced techniques and methods in digital investigations.
+- Learn how to use free tools in a simple environment such as Google Cloud Shell, without requiring complicated installations.
+  
+My goal is to democratize access to digital investigation methodologies and train a new generation of analysts in cyberintelligence.
 
-### 📝 Enlaces de Interés:
-- ✅ [Colección de Hilos en Twitter que eh realizado a la Fecha](https://linktr.ee/proyectosmanuelbot)
-- ✅ [Todas mis plataformas digitales](https://linktr.ee/manuelbot59)
+### 💡 What do I offer?
+- Detailed Tutorials: Learn how to use tools to research usernames, phone numbers, metadata, and more.
+- Advanced Scraping Techniques: How to extract valuable information from open sources.
+- Resources and Case Studies: Solve examples based on real cyberintelligence scenarios.
+- Active Community: Connect with other OSINT and SOCMINT enthusiasts through my Twitter [Manuel Bot](https://x.com/ManuelBot59) and Telegram [Manuel Bot OSINT](https://t.me/OsintManuelBot59).
 
+### 📌 Important
+Use of OSINT and SOCMINT tools must be responsible and ethical. While collecting them is not illegal, disseminating information without consent is. Therefore, the techniques and methods shared are designed for professional and legitimate use.
 
-### :fire: Mis estadísticas :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuelBot59&theme=dark&background=000000)
+### 📝 Links of Interest:
+- ✅ [Discount coupons on all my courses at OSINT and SOCMINT](https://linktr.ee/proyectosmanuelbot)
+- ✅ [All my digital platforms](https://linktr.ee/manuelbot59)
+
+### :fire: My statistics :
 ![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59)
