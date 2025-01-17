@@ -91,4 +91,6 @@ Use of OSINT and SOCMINT tools must be responsible and ethical. While collecting
 - ✅ [All my digital platforms](https://linktr.ee/manuelbot59)
 
 ### :fire: My statistics :
-![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59)
+![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelBot59&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
