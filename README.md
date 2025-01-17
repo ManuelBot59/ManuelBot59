@@ -99,3 +99,6 @@ Use of OSINT and SOCMINT tools must be responsible and ethical. While collecting
 ![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelBot59&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ManuelBot59&theme=dark)](https://git.io/streak-stats)
+
+## 💰 You can help me by donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manuelbot59) 
