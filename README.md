@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/manuelbot59" target="_blank"rel=" noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCTAp48-EdoXnnubGHcXTN9A" target="_blank"rel=" noopener noreferrer">
+  <a href="https://www.youtube.com/@ManuelBot59" target="_blank"rel=" noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/ManuelBot59" target="_blank"rel=" noopener noreferrer">
@@ -30,7 +30,7 @@
   <img src="https://i.ibb.co/S60dsBD/IMG-20190605-075443.png" width="600" height="300"/>
 </div>
 
-### :star: About me:
+## :star: About me:
 
 - 💻 Professional Computer Technician from Peru.
 - 👨‍💻 Cyber Intelligence Analyst in the Peruvian Police.
@@ -41,15 +41,20 @@
 - 💡 Developer of #OSINT and #SOCMINT tools to enhance digital investigations.
 - 🚀 Passionate about sharing knowledge and empowering professionals in cyber intelligence through innovative methodologies and hands-on training.
 
-### :hammer_and_wrench: Projects developed in these programming languages:
+## :hammer_and_wrench: Projects developed in these programming languages:
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### :computer: Operating Systems:
+
+## :computer: Operating Systems:
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
@@ -59,7 +64,7 @@
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
-### :computer: Search engines used as Analyst Osint:
+## :computer: Search engines used as Analyst Osint:
 
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
 ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
@@ -67,7 +72,7 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
 
-### 🎯 Main objective:
+## 🎯 Main objective:
 
 As a Social Media Analyst and Researcher specialized in OSINT and SOCMINT, my mission is to share useful and practical knowledge so that anyone interested can:
 
@@ -77,20 +82,20 @@ As a Social Media Analyst and Researcher specialized in OSINT and SOCMINT, my mi
   
 My goal is to democratize access to digital investigation methodologies and train a new generation of analysts in cyberintelligence.
 
-### 💡 What do I offer?
+## 💡 What do I offer?
 - Detailed Tutorials: Learn how to use tools to research usernames, phone numbers, metadata, and more.
 - Advanced Scraping Techniques: How to extract valuable information from open sources.
 - Resources and Case Studies: Solve examples based on real cyberintelligence scenarios.
 - Active Community: Connect with other OSINT and SOCMINT enthusiasts through my Twitter [Manuel Bot](https://x.com/ManuelBot59) and Telegram [Manuel Bot OSINT](https://t.me/OsintManuelBot59).
 
-### 📌 Important
+## 📌 Important
 Use of OSINT and SOCMINT tools must be responsible and ethical. While collecting them is not illegal, disseminating information without consent is. Therefore, the techniques and methods shared are designed for professional and legitimate use.
 
-### 📝 Links of Interest:
+## 📝 Links of Interest:
 - ✅ [Discount coupons on all my courses at OSINT and SOCMINT](https://linktr.ee/proyectosmanuelbot)
 - ✅ [All my digital platforms](https://linktr.ee/manuelbot59)
 
-### :fire: My statistics :
+## 📊 GitHub Stats:
 ![ManuelBot GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelBot59&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelBot59&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ManuelBot59&theme=dark)](https://git.io/streak-stats)
